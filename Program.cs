@@ -1,3 +1,2 @@
-﻿using DesafioPOO.Models;
-
-// TODO: Realizar os testes com as classes Nokia e Iphone
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
